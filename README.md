@@ -2,8 +2,6 @@
 
 This is the place where I opensource some cool stuff.
 
-- 🔭 &nbsp;I’m currently working on some proof of concept :wink:
-- 🌱 &nbsp;I’m currently learning Zero-Knowledge Proof
 - ✨ &nbsp;JavaScript / TypeScript / Angular / React / NodeJS / Express / Solidity
 - 🔗 &nbsp;You can find me on [Linkedin](https://www.linkedin.com/in/lpigliacampi/)
 
@@ -45,7 +43,9 @@ I am a Full Stack Developer with 10+ years of experience in developing enterpris
 <a href="https://www.influxdata.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/influxdata/influxdata-icon.svg" alt="influxdb" width="40" height="40"/></a>
 <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
 <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/></a>
+<a href="https://nats.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/natsio/natsio-icon.svg" alt="nats" width="40" height="40"/></a>
 <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
+<a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
