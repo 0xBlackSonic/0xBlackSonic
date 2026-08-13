@@ -7,7 +7,7 @@ This is the place where I opensource some cool stuff.
 
 ### ✨&nbsp; About Me
 
-I am a Full Stack Developer with 10+ years of experience in developing enterprise applications, experiments and open-source software.
+I am a Full Stack Developer with 15+ years of experience in developing enterprise applications, experiments and open-source software.
 
 #### Languages and tools used during my career:
 
